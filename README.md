@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 测试冲突用3
+=======
+测试冲突用4
+>>>>>>> branch 'master' of https://github.com/xiajunyi/awesome-python-cn.git
 
 # Python 资源大全中文版 
 
